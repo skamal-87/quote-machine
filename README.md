@@ -1,6 +1,6 @@
 # quote-machine
 
-> A Vue.js project
+> A Vue.js project that allows the user to commit and delete quote blocks. This is mostly an exercise in using Vue Directives
 
 ## Build Setup
 
